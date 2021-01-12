@@ -6,5 +6,6 @@ Yelp has made a portion of this data available for personal, educational, and ac
 
 # Objective
 
-**To help better businesses
-**To understand the importance of different factors which will help their business
+To help better businesses
+
+To understand the importance of different factors which will help their business
